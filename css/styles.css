@@ -1,0 +1,25 @@
+#v{
+    margin: 20px;
+}
+.hero-image {
+    background-image: url("a4.jpg"); /* The image used */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    margin: 30px;
+  }
+
+  #d{
+      font-size: 80px;
+      font-family: cursive;
+      color:greenyellow;
+  }
+
+  #k{
+      font-size: 40px;
+      font-family: cursive;
+      color:greenyellow;
+
+  }
+  
