@@ -11,7 +11,7 @@
   }
 
   #d{
-      font-size: 40px;
+      font-size: 20px;
       font-family: cursive;
       color:greenyellow;
   }
@@ -22,4 +22,16 @@
       color:greenyellow;
 
   }
+  .card-body{
+      size: 20px;
+  }
+
+  .c:hover{
+    color:goldenrod;
+}
+.t:hover{
+    color:goldenrod;
+}
+.o:hover{
+    color:goldenrod;
   
